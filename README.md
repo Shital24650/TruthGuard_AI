@@ -2,10 +2,6 @@
 ## AI-Powered Misinformation Detection & Digital Forensics Platform
 
 <p align="center">
-  <img src="./architecture-diagram.png" alt="TruthGuard AI Architecture" width="100%">
-</p>
-
-<p align="center">
   <b>Detect. Explain. Correct. Educate.</b><br>
   Real-time AI system for misinformation analysis, credibility scoring, psychological manipulation detection, and explainable digital forensics.
 </p>
@@ -222,8 +218,8 @@ Generates:
 # 📸 Architecture Diagram
 
 <p align="center">
-  <img src="<img width="1536" height="1024" alt="ChatGPT Image May 12, 2026, 01_43_03 PM" src="https://github.com/user-attachments/assets/7e69c6e1-327c-4382-a7ae-88f25ec28aa3" />
-" width="100%" alt="TruthGuard AI Architecture Diagram"/>
+  <img width="1536" height="1024" alt="ChatGPT Image May 12, 2026, 01_43_03 PM" src="https://github.com/user-attachments/assets/b12d9c29-77a9-4283-8632-4ad427236b60" />
+
 </p>
 
 ---
